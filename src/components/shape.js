@@ -10,9 +10,9 @@ this.color = "red";
   calculateArea(){}
 }
 
-let shape = new Shape();
+// let shape = new Shape();
 
 
 // export class using module.exports
 
-module.exports=shape;
+module.exports=Shape;

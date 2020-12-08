@@ -14,9 +14,9 @@ calculateArea(){}
 
 }
 
-let circle = new Circle();
+// let circle = new Circle();
 
 
 
 // export class using module.exports
-module.exports =circle;
+module.exports =Circle;
